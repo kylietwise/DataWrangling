@@ -1,9 +1,36 @@
+Transcript Title
 Script started on Mon Feb 20 21:33:55 2023
-[?1034hbash-3.2$ exitgrep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)" log.csv[C[C[C[C[C[C[C[C[C[Chead log.csv[K[C[C[C[C[C[C[C[C[C[Ctar -xvzf pol.tar.gz[C[C[C[C[C[C[C[C[C[C[28@ curl -s -L http://bit.ly/fbi-help -o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K curl -s -L http://bit.ly/fbi-help -o pol.tar.gz
-bash-3.2$  curl -s -L http://bit.ly/fbi-help -o pol.tar.gz[C[C[C[C[C[C[C[C[C[Cexit[Kgrep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)" log.csv[C[C[C[C[C[C[C[C[C[Chead log.csv[K[C[C[C[C[C[C[C[C[C[Ctar -xvzf pol.tar.gz[C[C[C[C[C[C[C[C[C[C[28@ curl -s -L http://bit.ly/fbi-help -o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[28Ptar -xvzf[C[C[C[C[C[C[C[C[C[C[C
+[?1034hbash-3.2$ exitgrep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)" log.csv
+[C[C[C[C[C[C[C[C[C[Chead log.csv[K
+[C[C[C[C[C[C[C[C[C[Ctar -xvzf pol.tar.gz
+[C[C[C[C[C[C[C[C[C[C[28@ curl -s -L http://bit.ly/fbi-help -o[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[Cexit[K curl -s -L http://bit.ly/fbi-help -o pol.tar.gz
+bash-3.2$  curl -s -L http://bit.ly/fbi-help -o pol.tar.gz
+[C[C[C[C[C[C[C[C[C[Cexit[Kgrep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)" log.csv
+[C[C[C[C[C[C[C[C[C[Chead log.csv[K
+[C[C[C[C[C[C[C[C[C[Ctar -xvzf pol.tar.gz
+[C[C[C[C[C[C[C[C[C[C[28@ curl -s -L http://bit.ly/fbi-help -o[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[28Ptar -xvzf[C[C[C[C[C[C[C[C[C[C[C
 x log.csv
-bash-3.2$ tar -xvzf pol.tar.gz[C[C[C[C[C[C[C[C[C[C[28@ curl -s -L http://bit.ly/fbi-help -o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[28Ptar -xvzf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[28@ curl -s -L http://bit.ly/fbi-help -o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kgrep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)" log.csv[C[C[C[C[C[C[C[C[C[Chead log.csv[K[C[C[C[C[C[C[C[C[C[Ctar -xvzf pol.tar.gz[C[C[C[C[C[C[C[C[C[C[8Phead log.csv[C[C[C[C[C[C[C[C[C[C[39@grep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)"[C[C[C[C[C[C[C[C >> edu[K[K[Kfbi_help.csv
-bash-3.2$ grep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)" log.csv >> fbi_help.csv[C[C[C[C[C[C[C[C[C[Ctar -xvzf pol.tar.gz[K[C[C[C[C[C[C[C[C[C[Cgrep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)" log.csv >> fbi_help.csv[C[C[C[C[C[C[C[C[C[C[Kgrep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)" log.csv >> fbi_help.csv[C[C[C[C[C[C[C[C[C[Ctar -xvzf pol.tar.gz[K[C[C[C[C[C[C[C[C[C[C[28@ curl -s -L http://bit.ly/fbi-help -o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K curl -s -L http://bit.ly/fbi-help -o pol.tar.gz[C[C[C[C[C[C[C[C[C[C[28Ptar -xvzf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)" log.csv >> fbi_help.csv[C[C[C[C[C[C[C[C[C[C[Kexit
+bash-3.2$ tar -xvzf pol.tar.gz
+[C[C[C[C[C[C[C[C[C[C[28@ curl -s -L http://bit.ly/fbi-help -o[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[28Ptar -xvzf[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[28@ curl -s -L http://bit.ly/fbi-help -o[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[Cexit[Kgrep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)" log.csv
+[C[C[C[C[C[C[C[C[C[Chead log.csv[K
+[C[C[C[C[C[C[C[C[C[Ctar -xvzf pol.tar.gz
+[C[C[C[C[C[C[C[C[C[C[8Phead log.csv
+[C[C[C[C[C[C[C[C[C[C[39@grep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)"[C[C[C[C[C[C[C[C >> edu[K[K[Kfbi_help.csv
+bash-3.2$ grep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)" log.csv >> fbi_help.csv
+[C[C[C[C[C[C[C[C[C[Ctar -xvzf pol.tar.gz[K
+[C[C[C[C[C[C[C[C[C[Cgrep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)" log.csv >> fbi_help.csv
+[C[C[C[C[C[C[C[C[C[C[Kgrep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)" log.csv >> fbi_help.csv
+[C[C[C[C[C[C[C[C[C[Ctar -xvzf pol.tar.gz[K
+[C[C[C[C[C[C[C[C[C[C[28@ curl -s -L http://bit.ly/fbi-help -o[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[Cexit[K curl -s -L http://bit.ly/fbi-help -o pol.tar.gz
+[C[C[C[C[C[C[C[C[C[C[28Ptar -xvzf[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[Cgrep -E "([eE]ducation[A-Za-z0-9_.]+\.txt)" log.csv >> fbi_help.csv
+[C[C[C[C[C[C[C[C[C[C[Kexit
 exit
 
 Script done on Mon Feb 20 21:36:48 2023
